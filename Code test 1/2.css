@@ -1,0 +1,19 @@
+body  {
+      background-color:aqua;
+      font-family:Ariel;
+      text-transform:uppercase;
+      }
+
+h1   {
+      text-align:center;
+      font-style:oblique;
+      font-size:70px;
+      background-color:red;
+      }
+
+p    {
+      text-align:center;
+      font-size:30px;
+      font-style:italics;
+      background-color:cyan;
+     }
